@@ -42,6 +42,28 @@
         </div>
       </div>
     </div>
+    <hr />
+    <div class="row text-center mb-n3">
+      <div class="col-12">
+        <p class="text-white">
+          &copy; Challenge by
+          <a
+            class="link-style"
+            href="https://www.frontendmentor.io?ref=challenge"
+            target="_blank"
+            rel="noopener"
+            >Frontend Mentor</a
+          >. Coded by
+          <a
+            class="link-style"
+            href="https://twitter.com/aufnasa_"
+            target="_blank"
+            rel="noopener"
+            >@aufnasa_</a
+          >
+        </p>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -131,5 +153,12 @@ export default {
   color: white;
   font-weight: 500;
   text-decoration: none;
+}
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 0;
+  border-top: 1px dashed white;
 }
 </style>
