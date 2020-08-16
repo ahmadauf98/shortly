@@ -17,6 +17,16 @@ import section1 from '~/components/pages/section1.vue'
 import section2 from '~/components/pages/section2.vue'
 import section3 from '~/components/pages/section3.vue'
 export default {
+  head: {
+    title: 'shortly - mockup',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Home page description',
+      },
+    ],
+  },
   components: {
     section1,
     section2,
