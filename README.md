@@ -4,10 +4,10 @@
 
 ## Live Demo Website
 
-To see live demo, [Click Here](https://easybank-dun.vercel.app/)
+To see live demo, [Click Here](https://shortly-ten.vercel.app/)
 
 ## Development & Build Setup using Nuxtjs
-
+ 
 ```bash
 # install dependencies
 $ npm install
